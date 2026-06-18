@@ -1,13 +1,14 @@
 import React, { useState, useRef } from 'react';
 import {
-  LayoutGrid, Users, Briefcase, ClipboardList, MapPin, BarChart3, Award,
-  Settings, LogOut, Search, Bell, HelpCircle, Grid3x3, Mail, Lock, Eye, EyeOff,
-  ArrowRight, Download, Plus, ChevronLeft, ChevronRight, Filter, RefreshCw,
-  Target, AlertTriangle, Calendar, Wallet, CheckCircle2, Clock, TrendingUp,
-  TrendingDown, Minus, MoreVertical, Crosshair
+  LayoutGrid, Users, Briefcase, ClipboardList, MapPin, BarChart3, Award, 
+  Settings, LogOut, Search, Bell, HelpCircle, Grid3x3, Mail, Lock, Eye, 
+  EyeOff, ArrowRight, Download, Plus, ChevronLeft, ChevronRight, Filter, 
+  RefreshCw, Target, AlertTriangle, Calendar, Wallet, CheckCircle2, Clock, 
+  TrendingUp, TrendingDown, Minus, MoreVertical, Crosshair
 } from 'lucide-react';
 import {
-  LineChart, Line, BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer
+  LineChart, Line, BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, 
+  Tooltip, ResponsiveContainer
 } from 'recharts';
 
 /* ---------------------------------------------------------------------- */
